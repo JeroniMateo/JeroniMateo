@@ -25,9 +25,9 @@ I am a developer in time of learning and experience
 |---|---|---|---|
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeroniMateo)](https://github.com/jeronimateo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeroniMateo)](https://github.com/JeroniMateo/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroniMateo&layout=compact)](https://github.com/jeronimateo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroniMateo&layout=compact)](https://github.com/JeroniMateo/github-readme-stats)
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
