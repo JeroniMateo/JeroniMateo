@@ -25,7 +25,7 @@ I am a developer in time of learning and experience
 |---|---|---|---|
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeroniMateo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeroniMateo)](https://github.com/jeronimateo/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroniMateo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
